@@ -7,5 +7,5 @@ app.get('*', (req, res) => { // Handles all GET requests
 });
 
 app.listen(port, () => {
-  console.log(`Server listening on port ${port}`);
+  console.log(`Server listening on port 3000}`);
 });
